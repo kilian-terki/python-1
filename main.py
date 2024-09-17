@@ -5,7 +5,7 @@ def est_isocele(a,b,c) :
     return(False)
 print(est_isocele(3,5,8))
 
-
+f
 
 def lpp(a,b):
     if a<b:
